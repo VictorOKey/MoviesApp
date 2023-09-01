@@ -1,0 +1,539 @@
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.exe
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.deps.json
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.json
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\ref\MoviesApp.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.pdb
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\scopedcss\bundle\MoviesApp.styles.css
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.input.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.output.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CopyComplete
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\ref\MoviesApp.dll
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.pdb
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Create.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Delete.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Details.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Edit.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Index.cshtml.g.cs
+C:\Users\User\Desktop\Институт\Учеба\ASP.NET\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.xml
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.AssemblyReference.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfoInputs.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfo.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\ref\MoviesApp.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.pdb
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.exe
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.deps.json
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.json
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.dev.json
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\ref\MoviesApp.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.pdb
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.Manifest.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.xml
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\scopedcss\bundle\MoviesApp.styles.css
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.input.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.output.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorCoreGenerate.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Create.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Delete.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Details.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Edit.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Index.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CopyComplete
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.genruntimeconfig.cache
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\SignOut.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\Index.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\SetPassword.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Dimasik\Downloads\Новая папка (2)\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\_Layout.cshtml.g.cs
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\appsettings.Development.json
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\appsettings.json
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\MoviesApp.exe
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\MoviesApp.deps.json
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.json
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.dev.json
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\MoviesApp.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\ref\MoviesApp.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\MoviesApp.pdb
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\MoviesApp.Views.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\AutoMapper.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Новая папка (2)\курсач\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.csproj.AssemblyReference.cache
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfoInputs.cache
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfo.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CoreCompileInputs.cache
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cache
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.Manifest.cache
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.xml
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\scopedcss\bundle\MoviesApp.styles.css
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.input.cache
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.output.cache
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.RazorCoreGenerate.cache
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Account\SignOut.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Create.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Delete.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Details.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Edit.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Index.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Manage\ChangePassword.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Manage\Index.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Manage\SetPassword.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Manage\_Layout.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Manage\_ManageNav.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Create.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Details.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Index.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cache
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cs
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CopyComplete
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.dll
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\ref\MoviesApp.dll
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.pdb
+F:\Новая папка (2)\курсач\obj\Debug\netcoreapp5.0\MoviesApp.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.exe
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.deps.json
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.json
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\ref\MoviesApp.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.pdb
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Пользователь\Desktop\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.Manifest.cache
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.xml
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\scopedcss\bundle\MoviesApp.styles.css
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.input.cache
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.output.cache
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorCoreGenerate.cache
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\SignOut.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Create.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Delete.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Details.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Edit.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\SetPassword.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\_Layout.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.dll
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\ref\MoviesApp.dll
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.pdb
+C:\Users\Пользователь\Desktop\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.StaticWebAssets.xml
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.exe
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.deps.json
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.pdb
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\scopedcss\bundle\MoviesApp.styles.css
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.Manifest.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.input.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.output.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorCoreGenerate.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\SignOut.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Create.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Delete.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Details.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Edit.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\SetPassword.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\_Layout.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\refint\MoviesApp.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.pdb
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\ref\MoviesApp.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.StaticWebAssets.xml
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.exe
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.deps.json
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.pdb
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\scopedcss\bundle\MoviesApp.styles.css
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.Manifest.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.input.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.output.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorCoreGenerate.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Account\SignOut.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Create.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Delete.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Details.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Edit.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Actor\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\SetPassword.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\_Layout.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\refint\MoviesApp.dll
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.pdb
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Учёба МИИТ\3 курс\1 семестр\Веб-разработка\MoviesApp\obj\Debug\netcoreapp5.0\ref\MoviesApp.dll
